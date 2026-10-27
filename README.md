@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://file.garden/aeFuJe6P_R_1-oPi/ergo404/114.png">
 
+# WAITLISTING.
+
 <br>
 <br>
 
@@ -27,11 +29,18 @@ You're apart of SharkBytes, a rebel group of scrappers who wish to take down Ely
 <img src="https://file.garden/aeFuJe6P_R_1-oPi/ergo404/emblem.png" width="400">
 
 <p>
-  Offering untraditional roles through an in character job program.
+  Tread lightly, we're a roleplay that focuses on the consequence of actions. Loredeath/Permadeath is a mechanic that is deemed unforgiving.
+</p>
+<p>
+  We offer untraditional roles through an in-character job program. Gain a uniform and perks.
 </p>
 <p>
    Become a Guardsman, Medical Staff, Repairmen, or Roboticist. Earn higher ranks the more active you are.
 </p>
+<p>
+  Interested? Join the Discord server!
+</p>
+
 
 
 <a href="https://discord.gg/pzauTZ9e5q">
