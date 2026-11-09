@@ -1,10 +1,6 @@
 <div align="center">
 <img src="https://file.garden/aeFuJe6P_R_1-oPi/ergo404/114.png">
 
-# WAITLISTING.
-
-<br>
-<br>
 
 <table>
   <tr>
